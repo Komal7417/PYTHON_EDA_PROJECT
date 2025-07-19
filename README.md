@@ -10,12 +10,17 @@ This repository contains Exploratory Data Analysis (EDA) projects using Python, 
 - Found insights like top-selling products, peak months, and regional performance
 - Used Pandas for analysis and Seaborn/Matplotlib for visualization
 
-### 2. data_capstone_project.ipynb
+### 2. data_capstone.ipynb
 - A complete EDA capstone project on a real-world dataset
 - Handled missing values, outliers, and data types
 - Created correlation heatmap, extraction of data
 - Final summary of key findings included
-
+- 
+### 3. feature_extraction.ipynb
+- handled missing values , outliers on real - world dataset
+- extract feature
+- use pandas for visualization and analysis
+  
 ## 🛠 Tools Used:
 - Python
 - Pandas
