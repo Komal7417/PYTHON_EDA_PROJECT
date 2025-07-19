@@ -13,7 +13,7 @@ This repository contains Exploratory Data Analysis (EDA) projects using Python, 
 ### 2. data_capstone_project.ipynb
 - A complete EDA capstone project on a real-world dataset
 - Handled missing values, outliers, and data types
-- Created correlation heatmap, trend plots, and visual insights
+- Created correlation heatmap, extraction of data
 - Final summary of key findings included
 
 ## 🛠 Tools Used:
